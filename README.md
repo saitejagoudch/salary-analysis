@@ -1,28 +1,28 @@
-# 📊 Data-Driven Salary Analysis: Predict, Visualize, Optimize 
+# Data-Driven Salary Analysis: Predict, Visualize, Optimize 
 
-## 📝 **Project Overview**
+## **Project Overview**
 
 This project focuses on analyzing salary-related data to uncover key insights, predict salary trends, and understand the factors influencing earnings. The goal is to leverage data analysis techniques and machine learning to assist in salary forecasting and business decision-making.
 
-## 🎯 **Objectives**
+## **Objectives**
 
 - Perform **Exploratory Data Analysis (EDA)** to identify trends and patterns in salary data.
 - Build **predictive models** to forecast salaries based on experience.
 - Analyze **feature importance** to understand key factors affecting salaries.
 - Generate **actionable insights** for business and HR analytics.
 
-## 📂 **Dataset Description**
+##  **Dataset Description**
 
 - **Source:** [Insert Dataset Source (e.g., Kaggle, Internal HR Database)]
 - **Features:** Includes attributes like **Years of Experience**, **Salary**, **Duration**, **Pulse**, **Calories Burned**, etc.
 - **Target Variable:** Salary (for predictive modeling)
 
-## ⚙️ **Technologies Used**
+##  **Technologies Used**
 
 - **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Jupyter Notebook:** For interactive analysis and visualization
 
-## 📊 **Data Analysis Workflow**
+##  **Data Analysis Workflow**
 
 1. **Data Preprocessing:**
    - Handling missing values and data cleaning
@@ -42,13 +42,13 @@ This project focuses on analyzing salary-related data to uncover key insights, p
    - Identifying key predictors of salary trends
    - Visualizing feature importance with bar charts and regression lines
 
-## 📈 **Key Insights & Results**
+##  **Key Insights & Results**
 
 - Identified a strong positive correlation between **Years of Experience** and **Salary**.
 - Achieved an MSE of **[Insert MSE]** for the predictive model.
 - Discovered that experience significantly influences salary, while other health-related metrics have indirect impacts.
 
-## 🚀 **How to Run the Project**
+##  **How to Run the Project**
 
 1. Clone the repository:
    ```bash
@@ -64,19 +64,19 @@ This project focuses on analyzing salary-related data to uncover key insights, p
    ```
 4. Run the notebook to view the analysis and results.
 
-## 🤔 **Future Improvements**
+##  **Future Improvements**
 
 - Incorporate more advanced regression techniques (e.g., Polynomial Regression, Ridge Regression).
 - Apply cross-validation for robust model performance evaluation.
 - Integrate external business datasets for broader salary insights.
 
-## 🙌 **Contributions**
+##  **Contributions**
 
 Contributions are welcome! Please open an issue or submit a pull request for suggestions and improvements.
 
 ---
 
-## 👨‍💻 **Author**
+## **Author**
 
 **Sai Teja Goud Chintakindi**
 
